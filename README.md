@@ -16,4 +16,8 @@ tx = TextExtractor(html_file_path)
 tx.get_text()
 ```
 
-### 
+### More options:
+
+You can adjust the script to fit your needs by changing these parameters in ```get_text function``` as you see below: 
+
+![Bildschirmfoto 2020-12-22 um 20 09 05](https://user-images.githubusercontent.com/8310720/102924557-1d27e580-4492-11eb-8cdf-5b34cdbce5bd.png)
